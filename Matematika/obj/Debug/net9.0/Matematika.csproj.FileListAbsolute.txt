@@ -1,0 +1,14 @@
+C:\Users\Marina\RiderProjects\Matematika\Matematika\bin\Debug\net9.0\Matematika.exe
+C:\Users\Marina\RiderProjects\Matematika\Matematika\bin\Debug\net9.0\Matematika.deps.json
+C:\Users\Marina\RiderProjects\Matematika\Matematika\bin\Debug\net9.0\Matematika.runtimeconfig.json
+C:\Users\Marina\RiderProjects\Matematika\Matematika\bin\Debug\net9.0\Matematika.dll
+C:\Users\Marina\RiderProjects\Matematika\Matematika\bin\Debug\net9.0\Matematika.pdb
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.AssemblyInfoInputs.cache
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.AssemblyInfo.cs
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.csproj.CoreCompileInputs.cache
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.dll
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\refint\Matematika.dll
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.pdb
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.genruntimeconfig.cache
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\ref\Matematika.dll
