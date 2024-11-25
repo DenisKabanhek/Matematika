@@ -12,3 +12,4 @@ C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\refint\Mate
 C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.pdb
 C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.genruntimeconfig.cache
 C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\ref\Matematika.dll
+C:\Users\Marina\RiderProjects\Matematika\Matematika\obj\Debug\net9.0\Matematika.sourcelink.json

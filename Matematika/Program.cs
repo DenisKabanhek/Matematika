@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 //Круг
 double a = 314.0;
 double b = 3.14;
